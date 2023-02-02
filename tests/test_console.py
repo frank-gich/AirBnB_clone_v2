@@ -3,13 +3,10 @@
 Contains the class TestConsoleDocs
 """
 
-import inspect
-import unittest
-
-import pep8
-
 import console
-
+import inspect
+import pep8
+import unittest
 HBNBCommand = console.HBNBCommand
 
 
